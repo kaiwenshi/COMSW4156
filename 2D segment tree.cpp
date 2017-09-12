@@ -1,3 +1,9 @@
+
+/*
+ Author: Kaiwen Shi
+ UNI: ks3505
+ Columbia University
+ */
 class NumMatrix {
 public:
     class SegmentTreeNode2D{
